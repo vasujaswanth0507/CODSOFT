@@ -1,0 +1,23 @@
+
+Basic Calculator Project: Functional and Interactive Design
+
+As part of my web development journey, I created a basic calculator using HTML, CSS, and JavaScript. This project aimed to develop a functional and interactive calculator that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+Project Overview: The calculator is designed to provide a simple and intuitive user interface, allowing users to perform calculations efficiently. It includes a display screen to show the input and results, and a set of buttons for digits and operations.
+
+Technologies Used:
+
+HTML: Structured the content and layout of the calculator.
+CSS: Styled the calculator to ensure it is visually appealing and responsive.
+JavaScript: Added functionality to handle user inputs and perform calculations.
+Key Features:
+
+Responsive Design: The calculator is fully responsive, ensuring it looks great on all devices, from desktops to mobile phones.
+Display Screen: Shows the current input and results of calculations.
+Buttons: Includes buttons for digits (0-9), operations (+, -, *, /), a decimal point, and a clear button © to reset the calculator.
+Interactive Elements: JavaScript was used to handle button clicks and perform the necessary calculations.
+Working of the Calculator:
+
+HTML Structure: The HTML file defines the basic structure of the calculator, including the display screen and buttons. Each button is assigned a specific class or ID to identify its function.
+CSS Styling: The CSS file styles the calculator, ensuring it is visually appealing and user-friendly. It includes styles for the layout, buttons, and display screen.
+JavaScript Functionality: The JavaScript file adds interactivity to the calculator. It listens for button clicks and updates the display screen accordingly. When an operation button is clicked, the JavaScript code performs the corresponding arithmetic operation and updates the result on the display screen.
